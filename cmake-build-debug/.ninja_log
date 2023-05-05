@@ -1,0 +1,18 @@
+# ninja log v5
+1	246	7049833525631007	CMakeFiles/project.dir/main.cpp.obj	4304b83cc4d976db
+0	118	7049834280235879	build.ninja	38e0738ab1580ebf
+1	244	7049834316305498	CMakeFiles/project.dir/main.cpp.obj	f7c07bfe468a3580
+6	3274	7049834346551571	CMakeFiles/project.dir/sqlite/sqlite3.c.obj	c258c471329a7044
+3275	3388	7049834347707788	project.exe	3fee5ab86ebfcb3e
+2	255	7049868732769892	CMakeFiles/project.dir/main.cpp.obj	f7c07bfe468a3580
+255	358	7049868733779793	project.exe	3fee5ab86ebfcb3e
+2	253	7049869333547765	CMakeFiles/project.dir/main.cpp.obj	f7c07bfe468a3580
+254	361	7049869334588005	project.exe	3fee5ab86ebfcb3e
+1	272	7049869515994139	CMakeFiles/project.dir/main.cpp.obj	f7c07bfe468a3580
+272	380	7049869517044140	project.exe	3fee5ab86ebfcb3e
+2	276	7049869846543420	CMakeFiles/project.dir/main.cpp.obj	f7c07bfe468a3580
+277	382	7049869847563685	project.exe	3fee5ab86ebfcb3e
+2	252	7049870131062167	CMakeFiles/project.dir/main.cpp.obj	f7c07bfe468a3580
+252	360	7049870132111803	project.exe	3fee5ab86ebfcb3e
+2	266	7049870748084641	CMakeFiles/project.dir/main.cpp.obj	f7c07bfe468a3580
+266	376	7049870749154282	project.exe	3fee5ab86ebfcb3e
